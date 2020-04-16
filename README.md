@@ -1,2 +1,2 @@
 # Background-Generator
-css and javascript backgorund generator
+css and javascript backgorund generator with input type : color
